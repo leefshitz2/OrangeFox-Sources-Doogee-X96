@@ -145,7 +145,7 @@ TW_HAS_NO_RECOVERY_PARTITION := true
 TW_BRIGHTNESS_PATH := "/sys/devices/platform/sprd_backlight/backlight/sprd_backlight/brightness"
 TARGET_RECOVERY_PIXEL_FORMAT := RGBX_8888
 TW_EXTRA_LANGUAGES := true
-TW_DEFAULT_LANGUAGE := ru
+TW_DEFAULT_LANGUAGE := ua
 TW_THEME := portrait_hdpi
 TW_INPUT_BLACKLIST := "hbtp_vm"
 RECOVERY_SDCARD_ON_DATA := true
@@ -155,7 +155,7 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_NO_USB_STORAGE := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_INCLUDE_LPTOOLS := true
-TW_DEVICE_VERSION := DoogeeX96 by depesh1977
+TW_DEVICE_VERSION := Doogee X96 OrangeFox by leefshitz
 
 # Decryption
 TW_INCLUDE_CRYPTO := false
